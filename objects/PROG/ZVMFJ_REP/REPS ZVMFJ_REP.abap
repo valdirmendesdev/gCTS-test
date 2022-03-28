@@ -6,3 +6,5 @@
 REPORT zvmfj_rep.
 
 WRITE: 'Teste do gCTS'.
+WRITE: 'Exemplo'.
+WRITE: 'outro'.
